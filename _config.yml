@@ -1,3 +1,6 @@
 title: Random Things
 author: NyanSnail
 theme: minima
+
+minima:
+  skin: auto
