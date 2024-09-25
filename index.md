@@ -1,1 +1,1 @@
-
+Hey there! Welcome to Random Things, my little corner of the internet. I'm NyanSnail 🐌, a tech enthusiast who loves sharing random things I've encountered, solved, or maked. Think of this as my personal tech journal, filled with DIY projects, weird tech quirks, and maybe even a few rants. I hope you'll find some inspiration, entertainment, or maybe even a solution to a problem you didn't know you had.
